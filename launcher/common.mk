@@ -5,8 +5,8 @@ BUILD ?= build
 TEXTURES ?= textures
 
 # common deps
-DOLLZ3 := $(LAUNCHER_DIR)/dollz3/dollz3.exe
-DOL2ELF := $(LAUNCHER_DIR)/dollz3/dol2elf.exe
+DOLLZ3 := $(LAUNCHER_DIR)/dollz3/dollz3
+DOL2ELF := $(LAUNCHER_DIR)/dollz3/dol2elf
 LIB_XML2 := $(LAUNCHER_DIR)/lib/libxml2/libxml2.a
 LIB_XMLXX := $(LAUNCHER_DIR)/lib/libxml++/libxml++.a
 LIB_FILE := $(COMMON_DIR)/filemodule/libfile/libfile_wii.a
