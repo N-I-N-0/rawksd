@@ -1,4 +1,4 @@
-TARGET := stripios.exe
+TARGET := stripios
 $(TARGET): stripios.cpp rijndael.cpp
 	@echo compiling $@ ...
 	@$(CXX) -o $@ $^

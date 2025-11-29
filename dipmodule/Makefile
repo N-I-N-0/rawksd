@@ -17,7 +17,7 @@ INCLUDES	:=  include ../libios/include ../filemodule/include
 SCRIPTDIR	:=  scripts
 BIN			:=  bin
 
-STRIPIOS	:=  ../stripios/stripios.exe
+STRIPIOS	:=  ../stripios/stripios
 
 LIBS		:=	../../filemodule/libfile/libfile_ios.a ../../libios/libios.a
 LIBDIRS		:=

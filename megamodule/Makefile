@@ -17,7 +17,7 @@ INCLUDES	:=  include ../libios/include
 SCRIPTDIR	:=  scripts
 BIN		:=  bin
 
-STRIPIOS	:=  ../stripios/stripios.exe
+STRIPIOS	:=  ../stripios/stripios
 
 LIBS		:=  ../../libios/libios.a
 LIBDIRS		:=
